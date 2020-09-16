@@ -1,4 +1,4 @@
-Hungry - Restaurant HTML5 Responsive Template
+## Hungry - Restaurant HTML5 Responsive Template
 
 		01. Global Styling & Thpography
 		02. Header
@@ -13,3 +13,6 @@ Hungry - Restaurant HTML5 Responsive Template
 		11. Our Store
 		12. Footer
 		13. Resposive
+
+## Demo Link
+https://developernaeem.github.io/hungry/
